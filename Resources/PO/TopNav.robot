@@ -11,4 +11,4 @@ Enter Search Term
     Input Text  id=twotabsearchtextbox  ${SEARCH_TERM}
 
 Submit Search
-    Click Button  id=nav-search-submit-buttonxx
+    Click Button  id=nav-search-submit-button
